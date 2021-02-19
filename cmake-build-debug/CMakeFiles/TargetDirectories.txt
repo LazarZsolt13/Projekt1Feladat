@@ -1,0 +1,3 @@
+C:/Egyetem/MasodikFelev/Adatszer I/Gyakorlatok/Git/cmake-build-debug/CMakeFiles/Git.dir
+C:/Egyetem/MasodikFelev/Adatszer I/Gyakorlatok/Git/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Egyetem/MasodikFelev/Adatszer I/Gyakorlatok/Git/cmake-build-debug/CMakeFiles/rebuild_cache.dir
