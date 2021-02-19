@@ -1,7 +1,11 @@
 #include <stdio.h>
-
+int osz(int,int);
 int main() {
-    printf("Hello, World!\n");
-    printf("Hogy valtozzon.\n");
+    int x=2,y=3;
+    printf("%d",osz(x,y));
     return 0;
+}
+int osz(int a,int b)
+{
+    return a+b;
 }
